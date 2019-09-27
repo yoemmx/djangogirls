@@ -25,7 +25,7 @@ SECRET_KEY = '3q8z9#*2nqxipn$kre6m%bu$tu(ct*b*ntgba$c=pk%nbq=gl5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://checkin.eu-west-1.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['https://yoemmx.pythonanywhere.com']
 
 
 # Application definition
